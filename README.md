@@ -6,7 +6,7 @@ WordCamp Toronto 2014,
 November 15, 2014
 
 Twitter: [@newtron](http://twitter.com/newtron/)  
-GitHub: [@nwtn](http://github.com/nwtn/)
+GitHub: [@nwtn](http://github.com/nwtn/)  
 Email: <david@davidnewton.ca>  
 
 * [This presentation on GitHub](https://github.com/nwtn/pres-respimg-perf-wcto)
