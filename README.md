@@ -27,7 +27,7 @@ Email: <david@davidnewton.ca>
 * <i>[Responsive Web Design](http://www.abookapart.com/products/responsive-web- design)</i> by Ethan Marcotte
 * ‘[Mobile Technology Fact Sheet](http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/)’ from PewResearch Internet Project
 * ‘[Android Fragmentation Visualized (August 2014)](http://opensignal.com/reports/2014/android-fragmentation/)’ by OpenSignal
-* ‘[Interesting stats](http://httparchive.org/interesting.php?a=All&l=Sep%2015%202014)’ from the *HTTP Archive*
+* ‘[Interesting stats](http://httparchive.org/interesting.php?a=All&l=Nov%201%202014)’ from the *HTTP Archive*
 * ‘[Mo’ Pixels, Mo	’ Problems](https://speakerdeck.com/davatron5000/mo-pixels-mo-problems)’ (Speaker Deck) by Dave Rupert
 * ‘[Mo’ Pixels, Mo	’ Problems](http://alistapart.com/article/mo-pixels-mo-problems)’ (A List Apart) by Dave Rupert
 * ‘[HTML5: Techniques for providing useful text alternatives](http://www.w3.org/TR/html-alt-techniques/)’ by Steve Faulkner
