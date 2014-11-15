@@ -10,7 +10,7 @@ GitHub: [@nwtn](http://github.com/nwtn/)
 Email: <david@davidnewton.ca>  
 
 * [This presentation on GitHub](https://github.com/nwtn/pres-respimg-perf-wcto)
-* This presentation on Speaker Deck (coming soon)
+* [This presentation on Speaker Deck](https://speakerdeck.com/newtron/using-responsive-images-responsibly-performance-and-accessibility-wordcamp)
 
 ## Quotes
 
@@ -24,7 +24,7 @@ Email: <david@davidnewton.ca>
 
 ## References
 
-* *[Responsive Web Design](http://www.abookapart.com/products/responsive-web- design)* by Ethan Marcotte
+* <i>[Responsive Web Design](http://www.abookapart.com/products/responsive-web- design)</i> by Ethan Marcotte
 * ‘[Mobile Technology Fact Sheet](http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/)’ from PewResearch Internet Project
 * ‘[Android Fragmentation Visualized (August 2014)](http://opensignal.com/reports/2014/android-fragmentation/)’ by OpenSignal
 * ‘[Interesting stats](http://httparchive.org/interesting.php?a=All&l=Sep%2015%202014)’ from the *HTTP Archive*
